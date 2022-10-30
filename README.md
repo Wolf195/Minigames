@@ -1,5 +1,8 @@
-# Minigames
-This Is where you can post any issues you found with a game or server
+## Minigames
+This Is where you can post any issues you found with a game or Minigames Server.
+
+## Known Bugs
+None
 
 ## Issue Template
 
