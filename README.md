@@ -14,14 +14,10 @@ IGN:
 
 Minecraft Version:
 
-
 Game/world:
-
 
 All mods in use:
 
-
 Issue:
-
 
 What you expected:
