@@ -10,6 +10,11 @@ Minigames605.aternos.me
 None
 #
 ## Issue Template
+
+### Title
+Game/world - Issue 
+
+### Comment
 IGN:
 
 Minecraft Version:
